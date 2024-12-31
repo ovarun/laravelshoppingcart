@@ -1,5 +1,5 @@
 {
-    "name": "mindscms/laravelshoppingcart",
+    "name": "ovarun/shop-cart-laravel",
     "description": "Laravel Shopping cart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
@@ -15,6 +15,10 @@
         {
             "name": "Sami Mansour",
             "email": "mindscms@gmail.com"
+        },
+        {
+            "name": "Arun",
+            "email": "arunov8545@gmail.com"
         }
     ],
     "require": {
@@ -37,6 +41,12 @@
             "Gloudemans\\Tests\\Shoppingcart\\": "tests/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ovarun/shop-cart-laravel"
+        }
+    ],
     "minimum-stability": "stable",
     "extra": {
         "laravel": {
