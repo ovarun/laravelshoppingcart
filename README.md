@@ -1,6 +1,6 @@
-## LaravelShoppingcart
+## Online Shop Cart Laravel
 
-A simple shopping cart implementation for Laravel 7 & 8 & 9 & 10.
+A simple shopping cart implementation for Laravel 7 , 8 , 9 , 10 & 11. Code forked from [mindscms/laravelshoppingcart](https://github.com/mindscms/laravelshoppingcart)
 
 ## Installation
 
@@ -8,7 +8,7 @@ Install the package through [Composer](http://getcomposer.org/).
 
 Run the Composer require command from the Terminal:
 
-    composer require mindscms/laravelshoppingcart
+    composer require ovarun/online-shopping-cart-laravel
 
 ### Laravel <= 7.0
 
@@ -24,7 +24,7 @@ And optionally add a new line to the `aliases` array:
 
 Now you're ready to start using the shopping cart in your application.
 
-**As of version 2 of this package it's possibly to use dependency injection to inject an instance of the Cart class into your controller or other class**
+**As of version 1 of this package it's possibly to use dependency injection to inject an instance of the Cart class into your controller or other class**
 
 ## Overview
 Look at one of the following topics to learn more about LaravelShoppingcart

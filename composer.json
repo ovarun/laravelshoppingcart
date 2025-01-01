@@ -1,21 +1,9 @@
 {
-    "name": "ovarun/shop-cart-laravel",
-    "description": "Laravel Shopping cart",
+    "name": "ovarun/online-shopping-cart-laravel",
+    "description": "Laravel Shopping cart - The original code belogs to mindscms/laravelshoppingcart team. i forked it to add support for larvel 11 and make some changes to support my project",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
     "authors": [
-        {
-            "name": "Rob Gloudemans",
-            "email": "info@robgloudemans.nl"
-        },
-        {
-            "name": "Michael V.",
-            "email": "michael@michaelbelgium.me"
-        },
-        {
-            "name": "Sami Mansour",
-            "email": "mindscms@gmail.com"
-        },
         {
             "name": "Arun",
             "email": "arunov8545@gmail.com"
@@ -44,7 +32,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/ovarun/shop-cart-laravel"
+            "url": "https://github.com/ovarun/online-shopping-cart-laravel"
         }
     ],
     "minimum-stability": "stable",
